@@ -1,0 +1,108 @@
+fileFormatVersion: 2
+guid: 794930e4527ac8b4bafb8f630df7ae17
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: _MapPrfab/BibliotecaNuevaComplete
+    100002: _MapPrfab/BibliotecaNuevaComplete/Ceilings02
+    100004: _MapPrfab/BibliotecaNuevaComplete/Celings01
+    100006: _MapPrfab/BibliotecaNuevaComplete/Collisions
+    100060: _MapPrfab/BibliotecaNuevaComplete/Decorations
+    100062: _MapPrfab/BibliotecaNuevaComplete/Doors
+    100064: _MapPrfab/BibliotecaNuevaComplete/Floor01
+    100066: _MapPrfab/BibliotecaNuevaComplete/Floor02
+    100068: _MapPrfab/BibliotecaNuevaComplete/Floor03
+    100070: _MapPrfab/BibliotecaNuevaComplete/Stands
+    100072: _MapPrfab/BibliotecaNuevaComplete/Wall01
+    100074: _MapPrfab/BibliotecaNuevaComplete/Wall02
+    400000: _MapPrfab/BibliotecaNuevaComplete/Transform
+    400002: _MapPrfab/BibliotecaNuevaComplete/Ceilings02/Transform
+    400004: _MapPrfab/BibliotecaNuevaComplete/Celings01/Transform
+    400006: _MapPrfab/BibliotecaNuevaComplete/Collisions/Transform
+    400060: _MapPrfab/BibliotecaNuevaComplete/Decorations/Transform
+    400062: _MapPrfab/BibliotecaNuevaComplete/Doors/Transform
+    400064: _MapPrfab/BibliotecaNuevaComplete/Floor01/Transform
+    400066: _MapPrfab/BibliotecaNuevaComplete/Floor02/Transform
+    400068: _MapPrfab/BibliotecaNuevaComplete/Floor03/Transform
+    400070: _MapPrfab/BibliotecaNuevaComplete/Stands/Transform
+    400072: _MapPrfab/BibliotecaNuevaComplete/Wall01/Transform
+    400074: _MapPrfab/BibliotecaNuevaComplete/Wall02/Transform
+    11400000: _MapPrfab/BibliotecaNuevaComplete/MonoBehaviour-SuperTiled2Unity.SuperMap
+    11400002: _superAsset
+    11400004: _MapPrfab/BibliotecaNuevaComplete/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400006: _MapPrfab/BibliotecaNuevaComplete/Ceilings02/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400008: _MapPrfab/BibliotecaNuevaComplete/Ceilings02/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400010: _MapPrfab/BibliotecaNuevaComplete/Ceilings02/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400012: _MapPrfab/BibliotecaNuevaComplete/Celings01/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400014: _MapPrfab/BibliotecaNuevaComplete/Celings01/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400016: _MapPrfab/BibliotecaNuevaComplete/Celings01/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400018: _MapPrfab/BibliotecaNuevaComplete/Collisions/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400020: _MapPrfab/BibliotecaNuevaComplete/Collisions/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400022: _MapPrfab/BibliotecaNuevaComplete/Collisions/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400074: _MapPrfab/BibliotecaNuevaComplete/Decorations/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400076: _MapPrfab/BibliotecaNuevaComplete/Decorations/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400078: _MapPrfab/BibliotecaNuevaComplete/Decorations/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400080: _MapPrfab/BibliotecaNuevaComplete/Doors/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400082: _MapPrfab/BibliotecaNuevaComplete/Doors/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400084: _MapPrfab/BibliotecaNuevaComplete/Doors/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400086: _MapPrfab/BibliotecaNuevaComplete/Floor01/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400088: _MapPrfab/BibliotecaNuevaComplete/Floor01/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400090: _MapPrfab/BibliotecaNuevaComplete/Floor01/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400092: _MapPrfab/BibliotecaNuevaComplete/Floor02/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400094: _MapPrfab/BibliotecaNuevaComplete/Floor02/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400096: _MapPrfab/BibliotecaNuevaComplete/Floor02/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400098: _MapPrfab/BibliotecaNuevaComplete/Floor03/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400100: _MapPrfab/BibliotecaNuevaComplete/Floor03/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400102: _MapPrfab/BibliotecaNuevaComplete/Floor03/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400104: _MapPrfab/BibliotecaNuevaComplete/Stands/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400106: _MapPrfab/BibliotecaNuevaComplete/Stands/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400108: _MapPrfab/BibliotecaNuevaComplete/Stands/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400110: _MapPrfab/BibliotecaNuevaComplete/Wall01/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400112: _MapPrfab/BibliotecaNuevaComplete/Wall01/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400114: _MapPrfab/BibliotecaNuevaComplete/Wall01/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400116: _MapPrfab/BibliotecaNuevaComplete/Wall02/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400118: _MapPrfab/BibliotecaNuevaComplete/Wall02/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400120: _MapPrfab/BibliotecaNuevaComplete/Wall02/MonoBehaviour-SuperTiled2Unity.TilemapData
+    100100000: _MapPrfab
+    2569400265252428796: _MapPrfab/BibliotecaNuevaComplete/Grid
+    3664157343022684176: _MapPrfab/BibliotecaNuevaComplete/Ceilings02/TilemapRenderer
+    3664157343022684178: _MapPrfab/BibliotecaNuevaComplete/Celings01/TilemapRenderer
+    3664157343022684180: _MapPrfab/BibliotecaNuevaComplete/Collisions/TilemapRenderer
+    3664157343022684182: _MapPrfab/BibliotecaNuevaComplete/Decorations/TilemapRenderer
+    3664157343022684184: _MapPrfab/BibliotecaNuevaComplete/Doors/TilemapRenderer
+    3664157343022684186: _MapPrfab/BibliotecaNuevaComplete/Floor01/TilemapRenderer
+    3664157343022684188: _MapPrfab/BibliotecaNuevaComplete/Floor02/TilemapRenderer
+    3664157343022684190: _MapPrfab/BibliotecaNuevaComplete/Floor03/TilemapRenderer
+    3664157343022684192: _MapPrfab/BibliotecaNuevaComplete/Stands/TilemapRenderer
+    3664157343022684194: _MapPrfab/BibliotecaNuevaComplete/Wall01/TilemapRenderer
+    3664157343022684196: _MapPrfab/BibliotecaNuevaComplete/Wall02/TilemapRenderer
+    8195094279510102542: _MapPrfab/BibliotecaNuevaComplete/Ceilings02/Tilemap
+    8195094279510102544: _MapPrfab/BibliotecaNuevaComplete/Celings01/Tilemap
+    8195094279510102546: _MapPrfab/BibliotecaNuevaComplete/Collisions/Tilemap
+    8195094279510102548: _MapPrfab/BibliotecaNuevaComplete/Decorations/Tilemap
+    8195094279510102550: _MapPrfab/BibliotecaNuevaComplete/Doors/Tilemap
+    8195094279510102552: _MapPrfab/BibliotecaNuevaComplete/Floor01/Tilemap
+    8195094279510102554: _MapPrfab/BibliotecaNuevaComplete/Floor02/Tilemap
+    8195094279510102556: _MapPrfab/BibliotecaNuevaComplete/Floor03/Tilemap
+    8195094279510102558: _MapPrfab/BibliotecaNuevaComplete/Stands/Tilemap
+    8195094279510102560: _MapPrfab/BibliotecaNuevaComplete/Wall01/Tilemap
+    8195094279510102562: _MapPrfab/BibliotecaNuevaComplete/Wall02/Tilemap
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  errors:
+  - Errors detected in tileset 'tsx/red.tsx'. Check the tileset inspector for more
+    details. Your map may be broken until these are fixed.
+  - Could not find tile 4410. Make sure the tilesets were successfully imported.
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  pixelsPerUnit: 16
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  tilesAsObjects: 0
+  importSorting: 0
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets: []

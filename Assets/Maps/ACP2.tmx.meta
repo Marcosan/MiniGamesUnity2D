@@ -1,0 +1,73 @@
+fileFormatVersion: 2
+guid: 06d2ff68242e75a459893082b04c1d0c
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: _MapPrfab/ACP2
+    100002: _MapPrfab/ACP2/Capa de Patrones 1
+    100004: _MapPrfab/ACP2/Capa de patrones 2
+    100006: _MapPrfab/ACP2/wall1
+    100008: _MapPrfab/ACP2/wall2
+    100010: _MapPrfab/ACP2/Wall3
+    100012: _MapPrfab/ACP2/collider
+    400000: _MapPrfab/ACP2/Transform
+    400002: _MapPrfab/ACP2/Capa de Patrones 1/Transform
+    400004: _MapPrfab/ACP2/Capa de patrones 2/Transform
+    400006: _MapPrfab/ACP2/wall1/Transform
+    400008: _MapPrfab/ACP2/wall2/Transform
+    400010: _MapPrfab/ACP2/Wall3/Transform
+    400012: _MapPrfab/ACP2/collider/Transform
+    11400000: _MapPrfab/ACP2/MonoBehaviour-SuperTiled2Unity.SuperMap
+    11400002: _superAsset
+    11400004: _MapPrfab/ACP2/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400006: _MapPrfab/ACP2/Capa de Patrones 1/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400008: _MapPrfab/ACP2/Capa de Patrones 1/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400010: _MapPrfab/ACP2/Capa de Patrones 1/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400012: _MapPrfab/ACP2/Capa de patrones 2/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400014: _MapPrfab/ACP2/Capa de patrones 2/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400016: _MapPrfab/ACP2/Capa de patrones 2/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400018: _MapPrfab/ACP2/wall1/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400020: _MapPrfab/ACP2/wall1/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400022: _MapPrfab/ACP2/wall1/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400024: _MapPrfab/ACP2/wall2/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400026: _MapPrfab/ACP2/wall2/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400028: _MapPrfab/ACP2/wall2/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400030: _MapPrfab/ACP2/Wall3/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400032: _MapPrfab/ACP2/Wall3/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400034: _MapPrfab/ACP2/Wall3/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400036: _MapPrfab/ACP2/collider/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400038: _MapPrfab/ACP2/collider/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400040: _MapPrfab/ACP2/collider/MonoBehaviour-SuperTiled2Unity.TilemapData
+    100100000: _MapPrfab
+    2569400265252428796: _MapPrfab/ACP2/Grid
+    3664157343022684176: _MapPrfab/ACP2/Capa de Patrones 1/TilemapRenderer
+    3664157343022684178: _MapPrfab/ACP2/Capa de patrones 2/TilemapRenderer
+    3664157343022684180: _MapPrfab/ACP2/wall1/TilemapRenderer
+    3664157343022684182: _MapPrfab/ACP2/wall2/TilemapRenderer
+    3664157343022684184: _MapPrfab/ACP2/Wall3/TilemapRenderer
+    3664157343022684186: _MapPrfab/ACP2/collider/TilemapRenderer
+    8195094279510102542: _MapPrfab/ACP2/Capa de Patrones 1/Tilemap
+    8195094279510102544: _MapPrfab/ACP2/Capa de patrones 2/Tilemap
+    8195094279510102546: _MapPrfab/ACP2/wall1/Tilemap
+    8195094279510102548: _MapPrfab/ACP2/wall2/Tilemap
+    8195094279510102550: _MapPrfab/ACP2/Wall3/Tilemap
+    8195094279510102552: _MapPrfab/ACP2/collider/Tilemap
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  errors:
+  - Errors detected in tileset 'tsx/red.tsx'. Check the tileset inspector for more
+    details. Your map may be broken until these are fixed.
+  - Could not find tile 11139. Make sure the tilesets were successfully imported.
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  pixelsPerUnit: 16
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  tilesAsObjects: 0
+  importSorting: 0
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets: []
